@@ -19,7 +19,7 @@ ESP32Time rtc(0);
 //time zone  
 int zone = 2;
 String town = "Zagreb";
-String myAPI = "d0d0bf1bb46822e5dce67c95f4fd0800";
+String myAPI = "";  // required — get a free key at openweathermap.org/api
 String units = "metric";  //  metric, imperial
 //#################### end of edits ###################
 
